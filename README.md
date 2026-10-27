@@ -58,6 +58,7 @@
 [**点击官方网站注册**](https://affg.cc/ewan)
 
 **年付七折优惠码：year69**
+**半年付九折优惠码：halfyear9**
 
 尔湾云网络加速器是一家专注于ssr和V2ray翻墙机场节点。采用国内优质IEPL专线加速，由海外团队运营，使用SSR+V2ray协议，一键导入支持Clash、Shadowsocks等翻墙插件。
 
